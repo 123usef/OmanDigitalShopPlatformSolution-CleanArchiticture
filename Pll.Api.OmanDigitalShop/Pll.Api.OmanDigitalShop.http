@@ -1,0 +1,6 @@
+@Pll.Api.OmanDigitalShop_HostAddress = http://localhost:5166
+
+GET {{Pll.Api.OmanDigitalShop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
