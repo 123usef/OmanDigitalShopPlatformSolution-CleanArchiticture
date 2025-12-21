@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace DAL.OmanDigitalShop.Interfaces
 {
-    public interface IProductRepository : IGenericRepository<Product>
+    public interface ICategoryRepository
     {
-        Product filter(string Name);
+       
     }
 }
